@@ -8,6 +8,6 @@ python3 performance.py
 Make a comparation with earth data:<br>
 python3 prueba_tierra.py
 <br>
-<b>RESULTS
+<b>RESULTS<br>
 ![img](https://github.com/juliancape/Cython-Example/blob/main/resultados_prueba_tierra/barplot.PNG)
 ![img](https://github.com/juliancape/Cython-Example/blob/main/resultados_prueba_tierra/scatter.PNG)
